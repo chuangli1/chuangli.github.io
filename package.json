@@ -4,7 +4,7 @@
   "description": "- .workbench   - 不可删除，云开发平台应用部署配置文件   - fcRouteDefault，「路由/函数入口」配置入口   - cicd，构建打包部署应用的 Shell 指令集；核心：将要部署的内容全部打包到项目根目录的 code.zip 压缩包，云开发平台只认项目根目录的 code.zip 压缩包进行部署",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs",
+    "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
