@@ -3,12 +3,38 @@ home: true # 标记此页面是否为首页
 lang: zh-CN # 表示本页面的语言为zh-CN(简体中文)
 heroText: 李闯的个人博客 # 首页的标题内容
 actionText: Get Started → # 首页跳转按钮的内容
-features: #  表明首页的特征，固定的格式为title + details，以三栏流式布局的方式展示
-  - title: 博客
-    details: 我的一些项目经历
-  - title: [关于我]
-    details: [一个努力的奋斗者]
-  - title: 札记
-    details: 一些生活，一点随想
-footer: chuangli | Copyright © 2021-present # 为底部内容，与普通的网页一样，我们可以在footer里面写版权信息
+footer: Copyright © 2021-present Li Chuang, All Rights Reserved. # 为底部内容，与普通的网页一样，我们可以在footer里面写版权信息
 ---
+<div class='content'>
+    <div class='lan'>
+        <div class='title'>博客</div>
+        <div class='des'>项目，实习，课题</div>
+    </div>
+    <div class='lan'>
+        <div class='title'>关于我</div>
+        <div class='des'>努力，奋斗，经历</div>
+    </div>
+    <div class='lan'>
+        <div class='title'>札记</div>
+        <div class='des'>生活，点滴，感悟</div>
+    </div>
+</div>
+<style>
+    .content{
+        border-top: 1px solid #eaecef;
+        text-align: center;
+    }
+    .lan{
+       display:inline-block;
+       width:33%;
+    }
+    .title{
+        font-size:28px;
+        margin:80px 0 30px 10px;
+    }
+    .des{
+        font-size:20px;
+        margin:0 0 70px 10px;
+        color: #4e6e8e;
+    }
+</style>
