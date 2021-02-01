@@ -8,11 +8,7 @@
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@codeup.aliyun.com:5ffeba5b1e45db3c1cc26e42/repo_2021-01-18_2021011800521227.git"
-  },
-  "author": "",
+  "author": "chuangli",
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.8.0"
