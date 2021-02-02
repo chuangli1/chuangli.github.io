@@ -17,7 +17,9 @@ module.exports = {
                 '1',  /* /foo/one.html */
                 '2'   /* /foo/two.html */
               ],
-           
+              '/diary/0':[
+                '0',
+              ]
           }
     }
 }
