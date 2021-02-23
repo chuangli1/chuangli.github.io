@@ -1,5 +1,5 @@
 module.exports = {
-    title: "李闯的网站",
+    title: "李闯的个人网站",
     description: '明天，你好',
     base:'/',
     themeConfig: {
