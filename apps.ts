@@ -46,40 +46,71 @@ const apps:any = {
             name:'Three',
             icon: 'https://bestofjs.org/logos/threejs.svg',
             url: 'https://threejs.org/'
+        },
+        {
+            name:'pinia',
+            url: 'https://pinia.vuejs.org/',
+            icon: 'https://pinia.vuejs.org/logo.svg'
+        },
+        {
+            name: 'i18n',
+            url:'https://kazupon.github.io/vue-i18n/zh/',
+            icon: 'https://kazupon.github.io/vue-i18n/vue-i18n-logo.png'
+        },
+        {
+            name: 'AnimeJS',
+            url: 'https://animejs.com/'
+        },
+        {
+            name: 'cesium',
+            url:'https://cesium.com/'
         }
     ],
     'lib':[
         {   
-            name:'Element(组)',
+            name:'Element(V)',
             icon:'https://element-plus.gitee.io/images/element-plus-logo.svg',
             url:'https://element-plus.gitee.io'
         },
+        {
+            name: 'Native(V)',
+            url: 'https://www.naiveui.com/zh-CN/os-theme',
+            icon: 'https://www.naiveui.com/assets/naivelogo.93278402.svg'
+        },
         {   
-            name:'Vant(组)',
+            name:'Vant(V)',
             icon:'https://cdn.jsdelivr.net/npm/@vant/assets/logo.png',
             url:'https://vant-contrib.gitee.io/vant/#/zh-CN'
         },
+        {  
+            name: 'vuestic(V)',
+            url: 'https://vuestic.dev/'
+        },
         {   
-            name:'Vuetify(组)',
+            name:'Vuetify(V)',
             url:'https://vuetifyjs.com/zh-Hans/introduction/why-vuetify/#feature-guides'
         },
         {
-            name:'IconPark(图)',
+            name:'IconPark(I)',
             icon: 'https://lf1-cdn2-tos.bytegoofy.com/bydesign/iconparksite/static/media/logo_with_name.598fc011.svg',
             url: 'https://iconpark.oceanengine.com/home'
         },
         {
-            name: 'UI5(组)',
+            name: 'UI5(V)',
             url: 'https://sap.github.io/ui5-webcomponents/playground/getting-started',
             icon: 'https://sap.github.io/ui5-webcomponents/assets/images/ui5-logo.png'
         },
+        {
+            name: 'Material(V)',
+            url: 'https://www.creative-tim.com/vuematerial/getting-started',
+        },
         {   
-            name: 'ag-grid',
+            name: 'ag-grid(G)',
             url: 'https://www.ag-grid.com/documentation/',
             icon: 'data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAg…sPSIjZmZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48L3N2Zz4='
         },
         {
-            name: 'HighChart',
+            name: 'HighChart(G)',
             icon: 'https://s1.jscdn.com.cn/highcharts/images/logo.svg',
             url: 'https://www.highcharts.com.cn/docs/start-introduction'
         },
@@ -89,10 +120,26 @@ const apps:any = {
             icon: ''
         },
         {
-            name: 'Bootstrap',
+            name: 'Bootstrap(C)',
             url: 'https://v5.bootcss.com/',
             icon: 'https://getbootstrap.com/docs/5.1/assets/img/bootstrap-icons@2x.png'
+        },
+        {
+            name: 'slidev',
+            url: 'https://cn.sli.dev/',
+            icon: 'https://cn.sli.dev/logo.svg'
+        },
+        {
+            name:'Tailwind(C)',
+            url:'https://tailwindcss.com/',
+            icon: ''
+        },
+        {
+            name: 'Animate(C)',
+            url:'https://animate.style/',
+            icon: 'https://animate.style/img/animatecss-opengraph.jpg'
         }
+        
     ]
 }
 export default apps;

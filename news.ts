@@ -23,6 +23,10 @@ const newsList:any ={
         {
             title: '前端博客大全',
             url:'http://caibaojian.com/links/'
+        },
+        {
+            title: 'best of js',
+            url: 'https://bestofjs.org/'
         }
     
     ],
