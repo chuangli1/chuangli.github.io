@@ -125,7 +125,7 @@ const apps:any = {
             icon: 'https://getbootstrap.com/docs/5.1/assets/img/bootstrap-icons@2x.png'
         },
         {
-            name: 'slidev',
+            name: 'Slidev',
             url: 'https://cn.sli.dev/',
             icon: 'https://cn.sli.dev/logo.svg'
         },
@@ -138,6 +138,11 @@ const apps:any = {
             name: 'Animate(C)',
             url:'https://animate.style/',
             icon: 'https://animate.style/img/animatecss-opengraph.jpg'
+        },
+        {
+            name: 'IConoir(I)',
+            url:'https://iconoir.com/',
+            icon:'https://iconoir.com/images/iconoir-logo.svg'
         }
         
     ]

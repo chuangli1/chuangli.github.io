@@ -27,6 +27,11 @@ const newsList:any ={
         {
             title: 'best of js',
             url: 'https://bestofjs.org/'
+        },
+        {
+            title: '大厂面试',
+            url: 'https://q.shanyue.tech/engineering/'
+
         }
     
     ],
