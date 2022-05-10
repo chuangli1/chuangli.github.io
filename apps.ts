@@ -1,6 +1,12 @@
 const apps:any = {
     'vue':[
         {
+            name: 'Node',
+            url: 'http://nodejs.cn/learn',
+            icon: 'http://img.nodejs.cn/logo.svg'
+
+        },
+        {
             name:'Vue',
             icon:'https://v3.cn.vuejs.org/logo.png',
             url:'https://v3.cn.vuejs.org/guide/introduction.html'
@@ -64,6 +70,15 @@ const apps:any = {
         {
             name: 'cesium',
             url:'https://cesium.com/'
+        },
+        {
+            name:'Axios',
+            url:'https://www.axios-http.cn/docs/intro',
+            icon: 'https://www.axios-http.cn/assets/favicon.ico'
+        },
+        {
+            name: 'Restful',
+            url: 'https://restfulapi.cn/'
         }
     ],
     'lib':[
@@ -143,6 +158,14 @@ const apps:any = {
             name: 'IConoir(I)',
             url:'https://iconoir.com/',
             icon:'https://iconoir.com/images/iconoir-logo.svg'
+        },
+        {
+            name:'FontA(I)',
+            url:'https://fontawesome.com/'
+        },
+        {
+            name: 'Icomoon(I)',
+            url: 'https://icomoon.io/#home'
         }
         
     ]
