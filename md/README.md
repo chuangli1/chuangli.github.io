@@ -7,12 +7,3 @@
 其三为软件开发之经历，先为校友公司之实习，入门之工作，长达8月有余，开发其系统之前端组件，且负责其功能模块之一二，获益颇多；二为携程集团之暑期实习，2月之久为团队设计并完成一前端测试脚手架之开发，三是实验室之项目，成一实验网络管理系统。 
 
 技术之交流或需帮助，可邮件联系之：a_chuangli@163.com。
-<style>
-.headImg{
-    width:130px; 
-    height:130px; 
-    border-radius:100%; 
-    overflow:hidden;
-    margin-bottom:1rem;
-}
-</style>

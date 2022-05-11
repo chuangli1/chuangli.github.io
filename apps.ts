@@ -1,84 +1,98 @@
 const apps:any = {
     'vue':[
         {
-            name: 'Node',
+            name: 'Node(B)',
             url: 'http://nodejs.cn/learn',
             icon: 'http://img.nodejs.cn/logo.svg'
 
         },
         {
-            name:'Vue',
+            name: 'TS(B)',
+            url: 'https://typescript.bootcss.com/basic-types.html',
+            icon: 'https://typescript.bootcss.com/favicon-32x32.png'
+        },
+        {
+            name:'Vue(V)',
             icon:'https://v3.cn.vuejs.org/logo.png',
             url:'https://v3.cn.vuejs.org/guide/introduction.html'
         },
         {
-            name:'Vue List',
+            name:'Vue List(V)',
             icon:'https://v3.cn.vuejs.org/logo.png',
             url:'https://github.com/vuejs/awesome-vue'
         },
         {
-            name:'VueX',
+            name:'VueX(V)',
             icon:'https://v3.cn.vuejs.org/logo.png',
             url:'https://vuex.vuejs.org/zh/index.html'
         },
         {
-            name:'VueRouter',
+            name:'VueRouter(V)',
             icon:'https://v3.cn.vuejs.org/logo.png',
             url:'https://router.vuejs.org/zh/introduction.html'
         },
         {
-            name:'Vite',
+            name:'Vite(V)',
             icon:'https://vitejs.cn/logo.svg',
             hover:'下一代前端开发与构建工具',
             url:'https://vitejs.cn/guide/'
         },
         {
-            name:'Vitest',
+            name:'Vitest(V)',
             icon:'https://cn.vitest.dev/logo.svg',
             hover:'由 Vite ⚡️提供支持的极速单元测试框架',
             url:'https://cn.vitest.dev/'
         },
         {
-            name: 'less',
+            name: 'less(B)',
             url:'https://less.bootcss.com/',
             icon: 'https://less.bootcss.com/public/img/less_logo.png'
         },
         {
-            name: 'D3',
+            name: 'D3(G)',
             url: 'https://github.com/d3/d3/wiki',
             icon: 'https://camo.githubusercontent.com/586ccf0aad9684e…8747470733a2f2f64336a732e6f72672f6c6f676f2e737667'
         },
         {
-            name:'Three',
+            name:'Three(G)',
             icon: 'https://bestofjs.org/logos/threejs.svg',
             url: 'https://threejs.org/'
         },
         {
-            name:'pinia',
+            name:'pinia(V)',
             url: 'https://pinia.vuejs.org/',
             icon: 'https://pinia.vuejs.org/logo.svg'
         },
         {
-            name: 'i18n',
+            name: 'i18n(V)',
             url:'https://kazupon.github.io/vue-i18n/zh/',
             icon: 'https://kazupon.github.io/vue-i18n/vue-i18n-logo.png'
         },
         {
-            name: 'AnimeJS',
+            name: 'AnimeJS(G)',
             url: 'https://animejs.com/'
         },
         {
-            name: 'cesium',
+            name: 'cesium(L)',
             url:'https://cesium.com/'
         },
         {
-            name:'Axios',
+            name:'Axios(B)',
             url:'https://www.axios-http.cn/docs/intro',
             icon: 'https://www.axios-http.cn/assets/favicon.ico'
         },
         {
-            name: 'Restful',
+            name: 'Restful(B)',
             url: 'https://restfulapi.cn/'
+        },
+        { 
+            name: 'babylon(G)',
+            url: 'https://www.babylonjs.com/',
+            icon:'https://d33wubrfki0l68.cloudfront.net/b39661bbf642…8076d23c8fa3/44cb5/assets/img/babylonidentity.svg'
+        },
+        {
+            name: 'tesseract(I)',
+            url: 'https://github.com/naptha/tesseract.js'
         }
     ],
     'lib':[
