@@ -7,9 +7,20 @@ const apps:any = {
 
         },
         {
+            name: 'AST(B)',
+            url: 'https://astexplorer.net/',
+            icon: 'https://astexplorer.net/favicon.png'
+
+        },
+        {
             name: 'TS(B)',
             url: 'https://typescript.bootcss.com/basic-types.html',
             icon: 'https://typescript.bootcss.com/favicon-32x32.png'
+        },
+        {
+            name:'React(R)',
+            icon:'https://https://react.docschina.org',
+            url:'https://https://react.docschina.org/favicon.ico'
         },
         {
             name:'Vue(V)',

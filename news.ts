@@ -32,6 +32,10 @@ const newsList:any ={
             name: '大厂面试',
             url: 'https://q.shanyue.tech/engineering/'
 
+        },
+        {
+            name: '常用的正则表达式',
+            url: 'https://goregex.cn/'
         }
     
     ],
