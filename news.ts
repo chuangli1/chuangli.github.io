@@ -5,6 +5,10 @@ const newsList:any ={
             url: 'https://www.ruanyifeng.com/blog/'
         },
         {
+            name: '十大排序算法',
+            url: 'https://www.cnblogs.com/onepixel/articles/7674659.html'
+        },
+        {
             name: '前端知识体系大全',
             url: 'http://caibaojian.com/toutiao/7186/'
         },
