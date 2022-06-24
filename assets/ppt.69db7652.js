@@ -1,0 +1,1 @@
+import{_ as e}from"./index.be48bb6d.js";import{o as t,a as r}from"./vendor.eb08a746.js";const _={},o={src:"https://pptist.gitee.io/",class:"ppt",frameborder:"0"};function s(a,p){return t(),r("iframe",o," ")}var i=e(_,[["render",s]]);export{i as default};
