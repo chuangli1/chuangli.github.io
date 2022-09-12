@@ -1,1 +1,0 @@
-import o from"./doc.ce455c1c.js";import t from"./form.e9a358cc.js";import m from"./form.e4ee605a.js";import r from"./doc.6f3d4815.js";const f=["resume","title"],p={titleForm:t,resumeForm:m},a={titleDoc:o,resumeDoc:r};export{a as d,p as f,f as t};
